@@ -1,4 +1,4 @@
-# GINUS-Hub
+# GIX-Hub
 
 **GIX-Hub** is the official GitHub organization for the
 **Geospatial Intelligence Cross-Disciplinary Programme (XDP)**
