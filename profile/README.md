@@ -1,10 +1,10 @@
 # GINUS-Hub
 
-**GINUS-Hub** is the official GitHub organization for the
+**GIX-Hub** is the official GitHub organization for the
 **Geospatial Intelligence Cross-Disciplinary Programme (XDP)**
 at the **National University of Singapore (NUS)**.
 
-*GINUS* is pronounced **“genius”**.
+*GIX* is pronounced **“geeks”**.
 
 ---
 
@@ -52,4 +52,4 @@ and licensing guidelines.
 
 ---
 
-*GINUS-Hub — Inspiring minds. Empowering a smarter world.*
+*GIX-Hub — Inspiring minds. Empowering a smarter world.*
